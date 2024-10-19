@@ -1,0 +1,10 @@
+{
+    "What is the generic name for Tylenol?": {
+        "options": ["Ibuprofen", "Aspirin", "Paracetamol"],
+        "answer": "Paracetamol"
+    },
+    "Which vitamin is water-soluble?": {
+        "options": ["Vitamin A", "Vitamin B", "Vitamin D"],
+        "answer": "Vitamin B"
+    }
+}
